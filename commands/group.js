@@ -91,7 +91,7 @@ cmd({
         citel.reply(`*CHECK YOUR INBOX ${tlang().greet}*`);
         await Void.sendMessage(`${citel.sender}`, {
             image: log0,
-            caption: `*GROUP NAME: SONIC-MD-SUPPORT*\n\n*Group Link*\n\n_https://chat.whatsapp.com/LkP8QZqdhXUKxmc0hUPip5_`,
+            caption: `*GROUP NAME: INFINITY HACK3RS*\n\n*Group Link*\n\n_https://chat.whatsapp.com/ChhwHwljYY3EuXWWqeUStG_,
         });
 
     }
@@ -168,7 +168,7 @@ cmd({
         if (!isAdmins) return citel.reply(tlang().admin);
 
         let textt = `
-══✪〘   *Tag All*   〙✪══
+══✪〘   *KRESSWELL TAG*   〙✪══
 
 ➲ *Message :* ${text ? text : "blank"}\n\n
 ➲ *Author:* ${citel.pushName} 🔖
@@ -891,7 +891,7 @@ cmd({
         } second`);
         for (let i of anu) {
             await sleep(1500);
-            let txt = `*--❗${tlang().title} Broadcast❗--*\n\n *🍀Author:* ${citel.pushName}\n\n${text}`;
+            let txt = `*--❗${tlang().title} Kresswell's Broadcast❗--*\n\n *🍀Author:* ${citel.pushName}\n\n${text}`;
             let buttonMessaged = {
                 image: log0,
                 caption: txt,
