@@ -8,7 +8,7 @@
 "env": {
   "OWNER_NAME": {
   "description": "TYPE YOUR BOT OWNER NAME...😊",
-      "value": "KALINDU"
+      "value": "Kresswell"
       },
     "HEROKU_API_KEY": {
     "description": "TYPE HEROKU API KEY...😊",
@@ -44,7 +44,7 @@
   },
   "OWNER_NUMBER": {
     "description": "GIVE OWNER NUMBER...😊",    
-      "value": "94758179948"
+      "value": "254768153167"
   },
    "SESSION_ID": {
     "description": "GIVE SESSION_ID AFTER QR SCAN...😊 "
@@ -72,7 +72,7 @@
   },
   "PACK_INFO": {
     "description": "Put packname;authorname.",
-     "value": "KALINDU;SONIC-MD",
+     "value": "A42 By KRESSWELL",
      "required": false 
    },
    "heroku": {
